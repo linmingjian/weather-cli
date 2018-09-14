@@ -1,9 +1,9 @@
 {
-  "name": "weather-cli",
+  "name": "weather-cli-lmj",
   "version": "1.0.0",
-  "description": "weather-cli",
+  "description": "a simple cli app built by node.js",
   "main": "index.js",
-  "author": "Astro",
+  "author": "Linmingjian",
   "license": "MIT",
   "bin": {
     "weather": "bin/weather"
@@ -12,5 +12,13 @@
     "axios": "^0.18.0",
     "minimist": "^1.2.0",
     "ora": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/linmingjian/weather-cli/issues",
+    "email": "mingjian426@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linmingjian/weather-cli.git"
   }
 }

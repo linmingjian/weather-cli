@@ -2,8 +2,14 @@
 
 一个用Node构建的命令行小工具，可以查询天气预报
 
-基础命令
+### 基础命令
 
+> 安装
+```
+npm install -g weather-cli-lmj
+```
+
+> 使用
 ```shell
 # 查询今天天气情况
 weather today 
